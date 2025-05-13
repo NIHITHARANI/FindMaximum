@@ -34,9 +34,9 @@ def max_marks(marks):
             maximum=i
     return maximum 
 ```
-Program developed by : Danica Christa
+Program developed by : NIHITHA RANI B
 
-Register No : 212223240022
+Register No : 23012494
 
 
 ## Output:
