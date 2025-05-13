@@ -42,7 +42,7 @@ Register No : 23012494
 ## Output:
 ![image](https://github.com/user-attachments/assets/741cd0ae-05a3-4252-be2d-0f9f62edc5ab)
 ![image](https://github.com/user-attachments/assets/42eda6db-3130-4c6d-aab6-401d8baae2b3)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7e2de1f0-65f2-4e82-9ab2-e0e586f0b68e)
 
 
 ## Result:
